@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://twitter.com/YourTwitterHandle" target="blank">
-    <img src="https://img.shields.io/twitter/follow/YourTwitterHandle?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Follow on Twitter" />
+    <img src="https://img.shields.io/twitter/follow/YourTwitterHandle?logo=twitter&style=for-the-badge&bcolor=1DA1F2" alt="Follow on Twitter" />
   </a>
   <a href="https://linkedin.com/in/ugochukwu benjamin" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
